@@ -32,7 +32,7 @@
 
 					<div class="col-12 col-xl-7 col-xxl-8 auth-cover-left align-items-center justify-content-center d-none d-xl-flex">
 
-                        <div class="card shadow-none bg-transparent shadow-none rounded-0 mb-0">
+                        <div class="card shadow-none bg-transparent rounded-0 mb-0">
 							<div class="card-body">
                                  <img src="{{asset('backend/assets/images/login-images/login-cover.svg')}}" class="img-fluid auth-img-cover-login" width="650" alt=""/>
 							</div>
@@ -48,7 +48,7 @@
 										<img src="{{asset('backend/assets/images/logo-icon.png')}}" width="60" alt="">
 									</div>
 									<div class="text-center mb-4">
-										<h5 class="">Admin</h5>
+										<h5 class="">Elearn Admin</h5>
 										<p class="mb-0">Please log in to your account</p>
 									</div>
 									<div class="form-body">
