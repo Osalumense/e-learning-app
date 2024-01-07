@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="{{asset('backend/assets/css/dark-theme.css')}}"/>
 	<link rel="stylesheet" href="{{asset('backend/assets/css/semi-dark.css')}}"/>
 	<link rel="stylesheet" href="{{asset('backend/assets/css/header-colors.css')}}"/>
-	<title>Admin Dashboard</title>
+	<title>@yield('title', 'Elearn - Admin')</title>
 </head>
 
 <body>
