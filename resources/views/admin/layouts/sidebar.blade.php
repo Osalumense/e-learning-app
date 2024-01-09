@@ -70,8 +70,6 @@
             <ul>
                 <li> <a href="map-google-maps.html"><i class='bx bx-radio-circle'></i>Google Maps</a>
                 </li>
-                <li> <a href="map-vector-maps.html"><i class='bx bx-radio-circle'></i>Vector Maps</a>
-                </li>
             </ul>
         </li>
         <li class="menu-label">Others</li>
